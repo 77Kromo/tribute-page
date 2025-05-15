@@ -5,7 +5,7 @@
 }
 
 header {
-  background-color: red;
+  background-color: #ff3717;
   padding: 20px;
    margin-bottom: 30px;
 }
@@ -31,7 +31,7 @@ li{
 }
 section {
   border-radius: 15px;
-  background-color: rgb(211, 211, 79);
+  background-color: #e8e9d7;
   margin: 10px;
 }
 div{
@@ -43,7 +43,7 @@ img {
 }
 
 footer {
-  background-color: green;
+  background-color: #00874f;
   padding: 20px;
 }
 
